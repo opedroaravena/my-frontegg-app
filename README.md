@@ -27,16 +27,7 @@ The application is a React project that integrates robust authentication and adm
 
 The project follows a standard modular structure of React applications, divided mainly among components, pages, and routing configurations.
 
-my-frontegg-app/
-├── node_modules/
-├── public/
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── App.css
-├── package.json
-└── README.md
-
+my-frontegg-app/<br>├── node_modules/<br>├── public/<br>├── src/<br>│ ├── App.js<br>│ ├── index.js<br>│ └── App.css<br>├── package.json<br>└── README.md
 
 ## Implementation Step by Step
 
